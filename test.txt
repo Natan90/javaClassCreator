@@ -1,0 +1,4 @@
+Personne
+int a
+int b
+boolean c
